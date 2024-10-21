@@ -13,7 +13,7 @@
     "features": "pages generate features"
   },
   "engines": {
-    "node": "^18.20.0 || >=20.2.0"
+    "node": "^18.4.0 || >=20.2.0"
   },
   "dependencies": {
     "@headlessui/react": "^2.1.0",
@@ -46,7 +46,7 @@
     "@typescript-eslint/eslint-plugin": "^7.0.2",
     "@typescript-eslint/parser": "^7.0.2",
     "@vitejs/plugin-react": "^4.2.1",
-    "@yext/pages": "^1.1.1",
+    "@yext/pages": "^1.1.3",
     "autoprefixer": "^10.4.19",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-react": "^7.33.2",
