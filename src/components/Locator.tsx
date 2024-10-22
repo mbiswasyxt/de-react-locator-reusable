@@ -99,7 +99,7 @@ const Locator = ({ verticalKey }: verticalKey) => {
         <div className="flex gap-8 w-full items-center my-6">
           <SearchBar
             customCssClasses={{ searchBarContainer: "  w-full ml-8" }}
-            placeholder="Enter an address, zip code, or city and state"
+            placeholder="Enter an address, postal code, or city and province"
             onSearch={handleSearch}
           />
         </div>
